@@ -1,4 +1,4 @@
-print('>> FIFO ou SJF <<')
+print('>>> FIFO ou SJF <<<')
 alg = input('Digite qual o tipo do algoritmo: ')  # Usuário digitarar se é FIFO ou SJF
 # p = PROCESSO#
 print('Programa testado apenas com  os processoas 23,10,9,5,3 e 2.')
